@@ -4,4 +4,4 @@ It is an Analytics projects which helps us to visualize the business usecases ba
 
 The visualization is done in tableau.
 
-![WhatsApp Image 2023-06-27 at 00 32 52](https://github.com/anji-578/SUMO-vehicle-poillution-data-analysis/assets/68511369/26439955-6257-4864-8e8b-0e3e32513163)
+![WhatsApp Image 2023-06-27 at 01 30 27](https://github.com/anji-578/SUMO-vehicle-poillution-data-analysis/assets/68511369/e31d8ade-d144-4f11-90eb-24e68b3c57d4)
