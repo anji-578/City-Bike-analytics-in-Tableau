@@ -4,6 +4,4 @@ It is an Analytics projects which helps us to visualize the business usecases ba
 
 The visualization is done in tableau.
 
-
-
-![citybike2](https://user-images.githubusercontent.com/68511369/224267038-2d2b4a96-e165-4152-bb43-8cf6a8e48add.png)
+![WhatsApp Image 2023-06-27 at 00 32 52](https://github.com/anji-578/SUMO-vehicle-poillution-data-analysis/assets/68511369/26439955-6257-4864-8e8b-0e3e32513163)
